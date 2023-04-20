@@ -1,4 +1,4 @@
-# templebangkok
+# WCTIT
 
 **WCTIT** Web crawling Temple in Thailand
 
