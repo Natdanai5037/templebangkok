@@ -14,7 +14,7 @@ Frontend React กับ Backend FastAPI
 
 ## HOW IT WORK?
 
-![App Screenshot](https://sv1.picz.in.th/images/2023/04/20/y0YwwE.png)
+![App Screenshot](API1.png)
 
 ทำการใส่รายชื่อจังหวัดที่ต้องการสืบข้อมูลวัด เมื่อกรอกข้อมูลจะไปทำการเรียก API ที่ทำการเขียน Regex เพื่อสกัดหาวัดออกมาจาก Wikipedia แล้วทำการส่งข้อ JSON กลับไปให้กลับ Frontend เพื่อแสดงผล รวมไปถึงสามารถกด Download CSV ให้กับ USER ได้
 
