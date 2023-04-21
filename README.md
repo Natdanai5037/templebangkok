@@ -45,7 +45,7 @@ Frontend React กับ Backend FastAPI
 
 ## Features
 
-- ทำการค้นหาได้ 72 จังหวัด
+- ทำการค้นหาได้ 73 จังหวัด
 - สามารถดาวน์โหลดไฟล์ CSV แยก หรือรวม
 
 ## Tech Stack
